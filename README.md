@@ -18,6 +18,7 @@ The way color style transformation is implemented is by generating the mapping f
    <br>
 </p>
 
+**Extention of histogram equalization** <br>
 # 3_eq_histogram_forward
 
 <p align="center">
