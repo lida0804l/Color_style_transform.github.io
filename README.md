@@ -27,7 +27,8 @@ The purpose of histogram equalization is to have the histogram uniformly distrib
    <br>
 </p>
 
-# 4_eq_histogram_inverse
+**Inverse mapping**
+Once we have the forward mapping from reference image to histogram equalized image, then we can approximate the inverse mapping too, one trick here is to rememorize the fact the function inverse is actually the 45 degree mirror image of forward mapping:
 
 <p align="center">
    <br>
