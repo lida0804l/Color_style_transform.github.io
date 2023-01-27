@@ -45,7 +45,8 @@ Thing has become clear in this stage, we could now apply a mapping from input to
    <br>
 </p>
 
-# 6_eq_histogram_combine_graph
+**Final result** <br>
+Here's a graph showing the function composition, this could also be useful for analyzing the differences between the two images in situation where the differences is hard to distinguish by visual perception:
 
 <p align="center">
    <br>
