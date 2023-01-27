@@ -1,4 +1,4 @@
-# Color_style_transform.github.io
+# Color style transform
 
 <p align="center">
    <br>
