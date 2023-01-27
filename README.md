@@ -36,7 +36,8 @@ Once we have the forward mapping from reference image to histogram equalized ima
    <br>
 </p>
 
-# 5_eq_histogram_combine
+**Function composition** <br>
+Thing has become clear in this stage, we could now apply a mapping from input to equalized image, and further apply the mapping from equalized image to reference image, and these two mapping could be composed into one transformation:
 
 <p align="center">
    <br>
