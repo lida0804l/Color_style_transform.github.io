@@ -6,7 +6,11 @@
    <br>
 </p>
 
-# 2_Mapping_function
+# Implementation
+The implementation of color style transformation is actually the extension of the famous "Histogram equalization", oftentimes having a good fundation is crucial to achieve great thins. <br>
+<br>
+**Mapping** <br>
+Let's imagine we have a cell phone ready to take a photo shown in the right side of the graph, and both the scene and the phone are static which means for each pixels of the camera sensor would constantly look at the same spot of the scene during the entire exposure process, and the formulation for the imaging process is:
 
 <p align="center">
    <br>
