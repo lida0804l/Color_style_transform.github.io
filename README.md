@@ -19,7 +19,7 @@ The way color style transformation is implemented is by generating the mapping f
 </p>
 
 **Extention of histogram equalization** <br>
-The purpose of histogram equalization is to have the histogram uniformly distributed to increase the contrast of the image, although the bit depth for pixel intensity is discrete, the transformation is approximately uniform but is enough for the application:
+The purpose of histogram equalization is to have the histogram uniformly distributed to increase the contrast of the image, although the bit depth for pixel intensity is discrete, the transformation is approximately uniform but is enough for the application, so the first step is to transform both the input and reference images to have approximately the same histogram distribution:
 
 <p align="center">
    <br>
