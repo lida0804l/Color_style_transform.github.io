@@ -10,7 +10,7 @@
 The implementation of color style transformation is actually the extension of the famous "Histogram equalization", oftentimes having a good fundation is crucial to achieve great thins. <br>
 <br>
 **Mapping** <br>
-The way color style transformation is implemented is by generating the mapping function for each R/G/B channel from input to reference image, once the distribution of histogram is approximately the same, so does color style:
+The way color style transformation is implemented is by generating the mapping function for each R/G/B channel from input to reference image automatically, once the distribution of histogram is approximately the same, so does color style:
 
 <p align="center">
    <br>
